@@ -5,6 +5,8 @@ I did my Master's in Engineering from Indian Institute of Science in 2011. After
 ### Projects
 *Scene Graph Generation*
 
+*Federated Learning by matching activation statistics*
+
 <!--
 **yash06904/yash06904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
