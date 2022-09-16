@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me
 
 I did my Master's in Engineering from Indian Institute of Science in 2011. After that I worked as Senor Lead Engineer in Qualcomm and as principal product Engineer in cadence design systems close to 10 years. Currently I am pursuing Ph.D under Dr. Anirban Chakraborty in field of Federated Learning with applications to computer vision at Department of Computational and Data Sciences in Indian Institute of Science, Bangalore. Link to my RESUME is HERE.
 
